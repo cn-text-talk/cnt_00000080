@@ -1,6 +1,3 @@
-<style type="text/css">
-h3.heading-element	{overflow-x:hidden;}
-</style>
 <h3>
 <br>还有的搞自杀呀，这是对的，还有的搞自杀呀，这是对的，还有的搞自杀呀，这是对的，
 <br>还有的搞自杀呀，这是不对的。还有的搞自杀呀，这是不对的。还有的搞自杀呀，这是不对的。
